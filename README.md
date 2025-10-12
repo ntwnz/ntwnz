@@ -4,15 +4,15 @@
 
 ---
 
-## 🚀 Summary
+## Summary
 - Currently self-studying Java and the Spring Boot framework.
 - Passed college admission exams and will start the degree next year.
 - Not currently employed or enrolled in a formal course.
-- Open to networking and feedback or even a work opportunity😉 — connect on LinkedIn or Instagram (@davi.bard).
+- Open to networking and feedback or even a work opportunity — connect on LinkedIn or Instagram.
 
 ---
 
-## 🎯 Current Focus
+## Focus
 - Core Java: OOP, Collections, Streams, Exceptions, Concurrency basics.
 - Spring Boot: REST APIs, Spring Data JPA, dependency injection, configuration.
 - Developer tooling: Git, Maven, IDE (IntelliJ), basic Docker.
