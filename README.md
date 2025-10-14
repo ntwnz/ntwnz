@@ -1,5 +1,8 @@
-# 📌 Profile Presentation
-<br>
+## 📌 Profile Presentation
+
+# ntwnz
+
+---
 
 ## 🚀 About me
 I'm a backend enthusiast currently learning and developing projects. I'm self-studying **Java** and the **Spring Boot** framework.  
@@ -29,16 +32,15 @@ Currently learning spring boot, h2, PostGRESQL basics.
 
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntwnz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwnz&layout=compact&langs_count=7&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntwnz&show_icons=true&theme=aura&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwnz&layout=donut&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-bard-b83915389/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/isaacnotwen)
+[![Perfil DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/isaacnotwen)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntwnz)
 
 ---
