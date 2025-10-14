@@ -1,6 +1,5 @@
 # 📌 Profile Presentation
 <br>
-<br>
 
 ## 🚀 About me
 I'm a backend enthusiast currently learning and developing projects. I'm self-studying **Java** and the **Spring Boot** framework.  
