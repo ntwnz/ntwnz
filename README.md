@@ -32,12 +32,10 @@ Currently learning spring boot, h2, PostGRESQL basics.
 
 
 ## 📊 GitHub Stats!
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ntwnz" />
+<a>
+  <img height=200 align="center" src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntwnz?cardType=level&theme=github-dark&fontFamily=Afacad&preferLogin=false)](https://git.io/awesome-stats-card)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntwnz&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 </div>
 
 
