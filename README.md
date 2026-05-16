@@ -32,8 +32,7 @@ Currently learning spring boot, h2, PostGRESQL basics.
 
 
 ## 📊 GitHub Stats!
-<a>
-  <img height=200 align="center" src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntwnz?cardType=level&theme=github-dark&fontFamily=Afacad&preferLogin=false)](https://git.io/awesome-stats-card)" />
+"[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntwnz?cardType=level&theme=github-dark&fontFamily=Afacad&preferLogin=false)](https://git.io/awesome-stats-card)"
 </a>
 
 </div>
